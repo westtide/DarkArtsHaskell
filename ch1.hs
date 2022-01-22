@@ -35,5 +35,3 @@ distance4 p1 p2 =
         MakePosition x2 y2 = p2
     in sqrt ((x1-x2)^2 + (y1-y2)^2)
 
--- 多构造函数
--- 同时表示笛卡尔坐标和极坐标
